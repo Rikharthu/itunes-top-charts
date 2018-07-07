@@ -2,6 +2,7 @@ package com.example.rikharthu.itunestopcharts.repository
 
 import android.arch.lifecycle.LiveData
 import android.arch.lifecycle.Transformations
+import android.content.SharedPreferences
 import com.example.rikharthu.itunestopcharts.LiveDataTransformations
 import com.example.rikharthu.itunestopcharts.SingleLiveEvent
 import com.example.rikharthu.itunestopcharts.asLiveData
@@ -9,6 +10,8 @@ import com.example.rikharthu.itunestopcharts.data.api.models.Entry
 import com.example.rikharthu.itunestopcharts.data.database.TracksDatabase
 
 class TracksCacheImpl(private val database: TracksDatabase) : TracksCache {
+
+    private lateinit var prefs: SharedPreferences // TODO assign. used to check last cache time?
 
     override fun clearTracks(): SingleLiveEvent<Void> {
         return SingleLiveEvent<Void>().apply {
@@ -54,7 +57,7 @@ class TracksCacheImpl(private val database: TracksDatabase) : TracksCache {
 
     override fun isTracksCacheExpired(): LiveData<Boolean> {
         // TODO implement correctly
-        return true.asLiveData()
+        return false.asLiveData()
     }
 
     private fun <T> LiveData<T>.wrapData(): LiveData<DataWrapper<T>> {

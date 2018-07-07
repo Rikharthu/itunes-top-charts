@@ -21,6 +21,7 @@ class TracksDataRepository(
             // First check whether there are cached tracks and cache is not expired
             val (isCached, isCacheExpired) = it
             val useCache = !forceRefresh and isCached and !isCacheExpired
+            Timber.d("isCached=$isCached, isCacheExpired=$isCacheExpired, useCache=$useCache")
             return@switchMap if (useCache) {
                 // Return directly from database
                 Timber.d("Returning cached tracks")
@@ -33,6 +34,8 @@ class TracksDataRepository(
                     if (it.data != null) {
                         isSuccess = true
                         Timber.d("Saving tracks")
+                        // TODO wipe non-favorited tracks
+                        cacheStore.clearTracks()
                         cacheStore.saveTracks(it.data)
                     }
                     Timber.d("Returning newly saved tracks")

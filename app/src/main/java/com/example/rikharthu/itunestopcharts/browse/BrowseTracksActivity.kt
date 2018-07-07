@@ -22,6 +22,7 @@ import java.text.DateFormat
 class BrowseTracksActivity : AppCompatActivity() {
 
     private lateinit var viewModel: BrowseTracksViewModel
+    private lateinit var cache: TracksCache
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -41,12 +42,13 @@ class BrowseTracksActivity : AppCompatActivity() {
                 .build()
         val apiService = retrofit.create(TopChartsService::class.java)
 
-        val database = Room.inMemoryDatabaseBuilder(
-                applicationContext,
-                TracksDatabase::class.java)
+
+        val database = Room.databaseBuilder(this,
+                TracksDatabase::class.java,
+                "test.db")
                 .allowMainThreadQueries()
                 .build()
-        val cache = TracksCacheImpl(database)
+        cache = TracksCacheImpl(database)
         val cacheStore = TracksCacheDataStore(cache)
         val remote = TracksRemoteImpl(apiService)
         val remoteStore = TracksRemoteDataStore(remote)
