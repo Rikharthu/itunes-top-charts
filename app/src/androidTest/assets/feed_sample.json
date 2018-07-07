@@ -1,0 +1,1254 @@
+{
+  "feed": {
+    "author": {
+      "name": {
+        "label": "iTunes Store"
+      },
+      "uri": {
+        "label": "http://www.apple.com/itunes/"
+      }
+    },
+    "entry": [
+      {
+        "im:name": {
+          "label": "Africa"
+        },
+        "im:image": [
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/ff/1c/48/ff1c48d2-a9f6-4f69-2d6d-5d2694394103/075679870223.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/ff/1c/48/ff1c48d2-a9f6-4f69-2d6d-5d2694394103/075679870223.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/ff/1c/48/ff1c48d2-a9f6-4f69-2d6d-5d2694394103/075679870223.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "Africa - Single"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/africa-single/1388055465?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$1.29",
+          "attributes": {
+            "amount": "1.29000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "℗ 2018 Weezer under exclusive license to Crush Music / Atlantic Recording Corporation for the United States and Crush Music / WEA International Inc. for the world excluding the United States. A Warner Music Company."
+        },
+        "title": {
+          "label": "Africa - Weezer"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/africa/1388055465?i=1388058245&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview125/v4/6d/c9/95/6dc995d3-8b09-4281-784f-79516b914b9f/mzaf_734391399366683703.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/africa/1388055465?i=1388058245&uo=2",
+          "attributes": {
+            "im:id": "1388058245"
+          }
+        },
+        "im:artist": {
+          "label": "Weezer",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/weezer/115234?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://itunes.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2018-05-29T00:00:00-07:00",
+          "attributes": {
+            "label": "May 29, 2018"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Whatever It Takes"
+        },
+        "im:image": [
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/62/18/8f/62188fa5-bc96-b1fb-2453-c2b5c4aeb222/UMG_cvrart_00602567410966_01_RGB72_3000x3000_17UMGIM98210.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/62/18/8f/62188fa5-bc96-b1fb-2453-c2b5c4aeb222/UMG_cvrart_00602567410966_01_RGB72_3000x3000_17UMGIM98210.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/62/18/8f/62188fa5-bc96-b1fb-2453-c2b5c4aeb222/UMG_cvrart_00602567410966_01_RGB72_3000x3000_17UMGIM98210.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "Evolve"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/evolve/1349124524?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$1.29",
+          "attributes": {
+            "amount": "1.29000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "℗ 2018 KIDinaKORNER/Interscope Records"
+        },
+        "title": {
+          "label": "Whatever It Takes - Imagine Dragons"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/whatever-it-takes/1349124524?i=1349124529&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/dd/f7/52/ddf752e3-6c14-902b-e6bd-14f859ec01c4/mzaf_8368880928731998795.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/whatever-it-takes/1349124524?i=1349124529&uo=2",
+          "attributes": {
+            "im:id": "1349124529"
+          }
+        },
+        "im:artist": {
+          "label": "Imagine Dragons",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/imagine-dragons/358714030?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://itunes.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2017-05-08T00:00:00-07:00",
+          "attributes": {
+            "label": "May 8, 2017"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Girls Like You"
+        },
+        "im:image": [
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/e5/23/c0/e523c07b-7bf5-4fa6-e504-b2afe1d20544/UMG_cvrart_00602557631333_01_RGB72_3000x3000_17UM1IM31407.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/e5/23/c0/e523c07b-7bf5-4fa6-e504-b2afe1d20544/UMG_cvrart_00602557631333_01_RGB72_3000x3000_17UM1IM31407.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/e5/23/c0/e523c07b-7bf5-4fa6-e504-b2afe1d20544/UMG_cvrart_00602557631333_01_RGB72_3000x3000_17UM1IM31407.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "Red Pill Blues (Deluxe)"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/red-pill-blues-deluxe/1292109608?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$1.29",
+          "attributes": {
+            "amount": "1.29000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "A 222 Records/Interscope Records Release;℗2017 Interscope Records"
+        },
+        "title": {
+          "label": "Girls Like You - Maroon 5"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/girls-like-you/1292109608?i=1292110108&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/43/ca/1f/43ca1f5a-70e2-52f1-fa3a-e893b59b06e0/mzaf_8897662118883854984.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/girls-like-you/1292109608?i=1292110108&uo=2",
+          "attributes": {
+            "im:id": "1292110108"
+          }
+        },
+        "im:artist": {
+          "label": "Maroon 5",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/maroon-5/1798556?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "14",
+            "term": "Pop",
+            "scheme": "https://itunes.apple.com/us/genre/music-pop/id14?uo=2",
+            "label": "Pop"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2017-11-03T00:00:00-07:00",
+          "attributes": {
+            "label": "November 3, 2017"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "In My Blood"
+        },
+        "im:image": [
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/c8/ee/e9/c8eee994-a95c-3ddf-1307-4929d52c540b/00602567569466.rgb.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c8/ee/e9/c8eee994-a95c-3ddf-1307-4929d52c540b/00602567569466.rgb.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/c8/ee/e9/c8eee994-a95c-3ddf-1307-4929d52c540b/00602567569466.rgb.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "Shawn Mendes"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/shawn-mendes/1376115721?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$0.69",
+          "attributes": {
+            "amount": "0.69000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "℗ 2018 Island Records, a division of UMG Recordings, Inc."
+        },
+        "title": {
+          "label": "In My Blood - Shawn Mendes"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/in-my-blood/1376115721?i=1376115725&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview125/v4/c6/49/ef/c649ef22-b69a-6f60-d14a-eebecf4d02bf/mzaf_8317660592216269003.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/in-my-blood/1376115721?i=1376115725&uo=2",
+          "attributes": {
+            "im:id": "1376115725"
+          }
+        },
+        "im:artist": {
+          "label": "Shawn Mendes",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/shawn-mendes/890403665?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "14",
+            "term": "Pop",
+            "scheme": "https://itunes.apple.com/us/genre/music-pop/id14?uo=2",
+            "label": "Pop"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2018-03-22T00:00:00-07:00",
+          "attributes": {
+            "label": "March 22, 2018"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "High Hopes"
+        },
+        "im:image": [
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/7c/8e/b5/7c8eb59b-e421-079e-92bb-ea1dabaeca80/075679875136.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/7c/8e/b5/7c8eb59b-e421-079e-92bb-ea1dabaeca80/075679875136.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/7c/8e/b5/7c8eb59b-e421-079e-92bb-ea1dabaeca80/075679875136.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "Pray For the Wicked"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/pray-for-the-wicked/1361152002?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$1.29",
+          "attributes": {
+            "amount": "1.29000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "℗ 2018 Fueled By Ramen LLC for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company."
+        },
+        "title": {
+          "label": "High Hopes - Panic! At the Disco"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/high-hopes/1361152002?i=1361152303&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/eb/e4/2e/ebe42efd-bbce-75cd-63a2-5813637e25bb/mzaf_6529454398103897146.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/high-hopes/1361152002?i=1361152303&uo=2",
+          "attributes": {
+            "im:id": "1361152303"
+          }
+        },
+        "im:artist": {
+          "label": "Panic! At the Disco",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/panic-at-the-disco/80456331?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "20",
+            "term": "Alternative",
+            "scheme": "https://itunes.apple.com/us/genre/music-alternative/id20?uo=2",
+            "label": "Alternative"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2018-06-22T00:00:00-07:00",
+          "attributes": {
+            "label": "June 22, 2018"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "The Middle"
+        },
+        "im:image": [
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/1f/dd/c2/1fddc2ed-06dc-58b6-f32e-078971a2b17a/UMG_cvrart_00602567380580_01_RGB72_3000x3000_18UMGIM02231.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/1f/dd/c2/1fddc2ed-06dc-58b6-f32e-078971a2b17a/UMG_cvrart_00602567380580_01_RGB72_3000x3000_18UMGIM02231.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/1f/dd/c2/1fddc2ed-06dc-58b6-f32e-078971a2b17a/UMG_cvrart_00602567380580_01_RGB72_3000x3000_18UMGIM02231.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "The Middle - Single"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/the-middle-single/1336756176?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$1.29",
+          "attributes": {
+            "amount": "1.29000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "℗ 2018 Interscope Records"
+        },
+        "title": {
+          "label": "The Middle - Zedd, Maren Morris & Grey"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/the-middle/1336756176?i=1336756656&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/69/cc/20/69cc20a8-cc45-8aa6-302f-d3dbe07704fe/mzaf_1908091116203160672.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/the-middle/1336756176?i=1336756656&uo=2",
+          "attributes": {
+            "im:id": "1336756656"
+          }
+        },
+        "im:artist": {
+          "label": "Zedd, Maren Morris & Grey",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/zedd/368433979?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "17",
+            "term": "Dance",
+            "scheme": "https://itunes.apple.com/us/genre/music-dance/id17?uo=2",
+            "label": "Dance"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2018-01-23T00:00:00-07:00",
+          "attributes": {
+            "label": "January 23, 2018"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "No Tears Left to Cry"
+        },
+        "im:image": [
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e0/71/9d/e0719d4d-9eb4-7eae-4347-57c28b37688b/00602567660262.rgb.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e0/71/9d/e0719d4d-9eb4-7eae-4347-57c28b37688b/00602567660262.rgb.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e0/71/9d/e0719d4d-9eb4-7eae-4347-57c28b37688b/00602567660262.rgb.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "No Tears Left to Cry - Single"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/no-tears-left-to-cry-single/1374085537?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$1.29",
+          "attributes": {
+            "amount": "1.29000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "℗ 2018 Republic Records, a Division of UMG Recordings, Inc."
+        },
+        "title": {
+          "label": "No Tears Left to Cry - Ariana Grande"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/no-tears-left-to-cry/1374085537?i=1374087460&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/79/1f/90/791f90e5-5b54-2ccc-1451-fa2f9758d2ed/mzaf_2352616533580062127.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/no-tears-left-to-cry/1374085537?i=1374087460&uo=2",
+          "attributes": {
+            "im:id": "1374087460"
+          }
+        },
+        "im:artist": {
+          "label": "Ariana Grande",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/ariana-grande/412778295?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "14",
+            "term": "Pop",
+            "scheme": "https://itunes.apple.com/us/genre/music-pop/id14?uo=2",
+            "label": "Pop"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2018-04-20T00:00:00-07:00",
+          "attributes": {
+            "label": "April 20, 2018"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Meant to Be"
+        },
+        "im:image": [
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/4a/a1/37/4aa13719-baa1-57f1-cf05-88de49672b9a/093624910763.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/4a/a1/37/4aa13719-baa1-57f1-cf05-88de49672b9a/093624910763.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/4a/a1/37/4aa13719-baa1-57f1-cf05-88de49672b9a/093624910763.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "All Your Fault, Pt. 2 - EP"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/all-your-fault-pt-2-ep/1251713683?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$1.29",
+          "attributes": {
+            "amount": "1.29000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "℗ 2017 Warner Bros. Records Inc."
+        },
+        "title": {
+          "label": "Meant to Be - Bebe Rexha & Florida Georgia Line"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/meant-to-be/1251713683?i=1251713725&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/fa/7b/15/fa7b15d9-29e7-031e-1a3f-325a36ddeb52/mzaf_3867120395092237549.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/meant-to-be/1251713683?i=1251713725&uo=2",
+          "attributes": {
+            "im:id": "1251713725"
+          }
+        },
+        "im:artist": {
+          "label": "Bebe Rexha & Florida Georgia Line",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/bebe-rexha/466059563?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "14",
+            "term": "Pop",
+            "scheme": "https://itunes.apple.com/us/genre/music-pop/id14?uo=2",
+            "label": "Pop"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2017-08-11T00:00:00-07:00",
+          "attributes": {
+            "label": "August 11, 2017"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Wait"
+        },
+        "im:image": [
+          {
+            "label": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/e5/23/c0/e523c07b-7bf5-4fa6-e504-b2afe1d20544/UMG_cvrart_00602557631333_01_RGB72_3000x3000_17UM1IM31407.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/e5/23/c0/e523c07b-7bf5-4fa6-e504-b2afe1d20544/UMG_cvrart_00602557631333_01_RGB72_3000x3000_17UM1IM31407.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/e5/23/c0/e523c07b-7bf5-4fa6-e504-b2afe1d20544/UMG_cvrart_00602557631333_01_RGB72_3000x3000_17UM1IM31407.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "Red Pill Blues (Deluxe)"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/red-pill-blues-deluxe/1292109608?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$1.29",
+          "attributes": {
+            "amount": "1.29000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "A 222 Records/Interscope Records Release;℗2017 Interscope Records"
+        },
+        "title": {
+          "label": "Wait - Maroon 5"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/wait/1292109608?i=1292110101&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/a4/0c/14/a40c14ec-e51e-a2d9-7539-125c771b3d5f/mzaf_2581099706344857298.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/wait/1292109608?i=1292110101&uo=2",
+          "attributes": {
+            "im:id": "1292110101"
+          }
+        },
+        "im:artist": {
+          "label": "Maroon 5",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/maroon-5/1798556?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "14",
+            "term": "Pop",
+            "scheme": "https://itunes.apple.com/us/genre/music-pop/id14?uo=2",
+            "label": "Pop"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2017-10-31T00:00:00-07:00",
+          "attributes": {
+            "label": "October 31, 2017"
+          }
+        }
+      },
+      {
+        "im:name": {
+          "label": "Heaven"
+        },
+        "im:image": [
+          {
+            "label": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/54/d5/34/54d53483-528f-efeb-5a8a-2642a82f8b7f/886446714837.jpg/55x55bb-85.png",
+            "attributes": {
+              "height": "55"
+            }
+          },
+          {
+            "label": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/54/d5/34/54d53483-528f-efeb-5a8a-2642a82f8b7f/886446714837.jpg/60x60bb-85.png",
+            "attributes": {
+              "height": "60"
+            }
+          },
+          {
+            "label": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/54/d5/34/54d53483-528f-efeb-5a8a-2642a82f8b7f/886446714837.jpg/170x170bb-85.png",
+            "attributes": {
+              "height": "170"
+            }
+          }
+        ],
+        "im:collection": {
+          "im:name": {
+            "label": "Kane Brown (Deluxe Edition)"
+          },
+          "link": {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/kane-brown-deluxe-edition/1277175594?uo=2"
+            }
+          },
+          "im:contentType": {
+            "im:contentType": {
+              "attributes": {
+                "term": "Album",
+                "label": "Album"
+              }
+            },
+            "attributes": {
+              "term": "Music",
+              "label": "Music"
+            }
+          }
+        },
+        "im:price": {
+          "label": "$1.29",
+          "attributes": {
+            "amount": "1.29000",
+            "currency": "USD"
+          }
+        },
+        "im:contentType": {
+          "im:contentType": {
+            "attributes": {
+              "term": "Track",
+              "label": "Track"
+            }
+          },
+          "attributes": {
+            "term": "Music",
+            "label": "Music"
+          }
+        },
+        "rights": {
+          "label": "℗ 2017 Sony Music Entertainment"
+        },
+        "title": {
+          "label": "Heaven - Kane Brown"
+        },
+        "link": [
+          {
+            "attributes": {
+              "rel": "alternate",
+              "type": "text/html",
+              "href": "https://itunes.apple.com/us/album/heaven/1277175594?i=1277176588&uo=2"
+            }
+          },
+          {
+            "im:duration": {
+              "label": "30000"
+            },
+            "attributes": {
+              "title": "Preview",
+              "rel": "enclosure",
+              "type": "audio/x-m4a",
+              "href": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview128/v4/31/ad/26/31ad2686-10d7-eb1f-e744-3cbd871ec2a1/mzaf_1835808440537554511.plus.aac.p.m4a",
+              "im:assetType": "preview"
+            }
+          }
+        ],
+        "id": {
+          "label": "https://itunes.apple.com/us/album/heaven/1277175594?i=1277176588&uo=2",
+          "attributes": {
+            "im:id": "1277176588"
+          }
+        },
+        "im:artist": {
+          "label": "Kane Brown",
+          "attributes": {
+            "href": "https://itunes.apple.com/us/artist/kane-brown/930928857?uo=2"
+          }
+        },
+        "category": {
+          "attributes": {
+            "im:id": "6",
+            "term": "Country",
+            "scheme": "https://itunes.apple.com/us/genre/music-country/id6?uo=2",
+            "label": "Country"
+          }
+        },
+        "im:releaseDate": {
+          "label": "2017-10-06T00:00:00-07:00",
+          "attributes": {
+            "label": "October 6, 2017"
+          }
+        }
+      }
+    ],
+    "updated": {
+      "label": "2018-06-01T00:06:30-07:00"
+    },
+    "rights": {
+      "label": "Copyright 2008 Apple Inc."
+    },
+    "title": {
+      "label": "iTunes Store: Top Songs"
+    },
+    "icon": {
+      "label": "http://itunes.apple.com/favicon.ico"
+    },
+    "link": [
+      {
+        "attributes": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&id=1&popId=1"
+        }
+      },
+      {
+        "attributes": {
+          "rel": "self",
+          "href": "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=10/json"
+        }
+      }
+    ],
+    "id": {
+      "label": "http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=10/json"
+    }
+  }
+}
